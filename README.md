@@ -8,4 +8,6 @@ All tutorials will either be in Jupyter Notebook or Rmarkdown format unless othe
 
 1. Python Linear Regression Tutorial.ipynb is a Jupyter Notebook contains tutorial for performing simple linear regression using Matrix Algebra method and sklearn library
 
-2. Decision tree and RandomForest from scratch in Python. Further editing, correction, and comment needed. 
+2. Visualizing Correlation Coefficient in Python.ipynb is a Jupyter Notebook contains a short tutorial for visualizing coefficient coefficient using pandas and seaborn.
+
+Decision tree and RandomForest from scratch in Python. Further editing, correction, and comment needed. 
