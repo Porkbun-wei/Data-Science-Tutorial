@@ -10,4 +10,4 @@ All tutorials will either be in Jupyter Notebook or Rmarkdown format unless othe
 
 2. Visualizing Correlation Coefficient in Python.ipynb is a Jupyter Notebook contains a short tutorial for visualizing coefficient coefficient using pandas and seaborn.
 
-Decision tree and RandomForest from scratch in Python. Further editing, correction, and comment needed. 
+3. Bayes Theorem Example.pdf is a pdf file that covers the mathametical derivation of Bayes' Theorem. The applications of Bayes' Theorem for some common interview questions are covered, such as the Monty Hall Problem. The answers to this problems are derived mathmatically. 
